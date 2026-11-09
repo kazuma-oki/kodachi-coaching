@@ -1,0 +1,44 @@
+[
+  {
+    "name": "hero-shadow",
+    "prompt": "Use case: photorealistic-natural. Asset type: full-bleed 16:9 website hero background. Make an exceptionally quiet editorial photograph of delicate out-of-focus sage-green botanical branch shadows on a warm ivory plaster wall. Shadows concentrate at left and right edges, leave the center broad and almost empty for Japanese typography. Natural late-afternoon dappled light, soft focus, subtle photographic texture, warm off-white #F4F2EC and gray-sage #A3B09B only. Restrained contrast, no text, no people, no pots, no illustration, no border.",
+    "file": "public/assets/hero-shadow.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  },
+  {
+    "name": "forest",
+    "prompt": "Use case: photorealistic-natural. Asset type: 3:4 portrait website photograph. A quiet grove of tall slender upright trees, soft filtered early morning sunlight, layers of muted sage green leaves, mossy earthy forest floor. Editorial Japanese nature photography, restrained contrast, contemplative atmosphere, not fantasy. Vertically oriented trunks through the composition, subject fills frame, no people, no text, no path signs.",
+    "file": "public/assets/forest.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  },
+  {
+    "name": "athlete",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 3:4 coaching service photograph. A deserted muted olive-green athletic running track with gracefully curving ivory lane lines, a strip of natural grass and soft tree shadows in the late afternoon. Crop close and abstract, lines recede upwards, tactile running-track texture, calm and still, absolutely no athletes or people. Desaturated sage, pale sand, moss colors, gentle natural light, premium editorial photograph. No text or numbers.",
+    "file": "public/assets/athlete.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  },
+  {
+    "name": "team",
+    "prompt": "Use case: photorealistic-natural. Asset type: portrait 3:4 team coaching website image. Four simple pale oak chairs arranged in a gentle arc on a warm neutral floor in an empty sunlit meeting room. Lower half holds chairs, background tall windows showing softly blurred sage green trees. No people, no faces, no text, no logos. Calm Japanese editorial photography, natural light, soft shadows, desaturated sage and warm ivory tones, no dramatic contrast.",
+    "file": "public/assets/team.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  },
+  {
+    "name": "notebook",
+    "prompt": "Use case: photorealistic-natural. Asset type: 3:4 portrait coaching website photograph. An open unmarked cream notebook and slim dark pencil on an oak desk beside a window with blurred green foliage. Notebook in lower half of image, generous quiet table surface above, soft branch shadow, tactile paper and wood. Calm natural afternoon light, low contrast editorial photography, muted sage and ivory, no people or hands, no readable writing, no text, no logos.",
+    "file": "public/assets/notebook.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  },
+  {
+    "name": "wood",
+    "prompt": "Use case: photorealistic-natural. Asset type: wide 16:9 website ambient background. Extremely softly focused pale natural oak woodgrain with gentle late-afternoon dappled sunlight and blurred shadow of delicate leaves. Warm ivory and muted sage tint, quiet nearly abstract texture, low contrast, broad empty center for text. No objects, no people, no text, no graphic gradients, photographic natural light.",
+    "file": "public/assets/wood.webp",
+    "generated_with": "Built-in image_gen",
+    "purpose": "イメージ写真（実際の人物・施設・支援実績ではありません）"
+  }
+]
